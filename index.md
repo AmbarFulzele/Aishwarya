@@ -14,7 +14,9 @@
 		</li>
 		<li><h3>Quantitative Aptitude</h3>
 			<ul>
-			  <!-- <li><a href="https://ambarfulzele.github.io/Harshvardhan/Verbal/VERBAL_1.html">VERBAL 1</a></li> -->
+			  	<li><a href="https://ambarfulzele.github.io/Harshvardhan/Quants/AP-GP-Test-01.html">AP-GP-Test-01</a></li>
+				<li><a href="https://ambarfulzele.github.io/Harshvardhan/Quants/Averages-Test-01.html">Averages-Test-01</a></li>
+				<li><a href="https://ambarfulzele.github.io/Harshvardhan/Quants/LCM-HCF-01.html">LCM-HCF-01</a></li>
 			</ul>
 		</li>
 		<li><h3>Logical Reasoning</h3>
