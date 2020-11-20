@@ -31,7 +31,7 @@
 		</li>
 		<li><h3>Mock Test</h3>
 			<ul>
-			  <!-- <li><a href="https://ambarfulzele.github.io/Harshvardhan/Verbal/VERBAL_1.html">VERBAL 1</a></li> -->
+			  <li><a href="https://ambarfulzele.github.io/Harshvardhan/Mocks/IBS Quant Mock.html">IBS Mock</a></li>
 			</ul>
 		</li>
 	</ul>
